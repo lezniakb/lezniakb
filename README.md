@@ -1,8 +1,8 @@
 # Hey there!
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/LightMagician)
-[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge&logo=shield)](https://github.com/lezniakb)
-[![Red Team](https://img.shields.io/badge/Specialty-Red%20Team-darkred?style=for-the-badge&logo=target)](https://github.com/lezniakb)
+[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge&logo=shield)](https://tryhackme.com/p/LightMagician)
+[![Red Team](https://img.shields.io/badge/Specialty-Red%20Team-darkred?style=for-the-badge&logo=target)](https://tryhackme.com/p/LightMagician)
 
 ## About Me
 I'm a cybersecurity enthusiast with a passion for penetration testing and red teaming. Currently dedicated to enhancing my skills through continuous learning and practical challenges. As I go through the challanges, I also like visiting Blue Team rooms to gain a more comprehensive understanding of cybersecurity as a whole.
