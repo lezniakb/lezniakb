@@ -1,46 +1,61 @@
 # Hey there!
-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/LightMagician)
 [![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge&logo=shield)](https://tryhackme.com/p/LightMagician)
 [![Red Team](https://img.shields.io/badge/Specialty-Red%20Team-darkred?style=for-the-badge&logo=target)](https://tryhackme.com/p/LightMagician)
 
-## About Me
-I'm a cybersecurity enthusiast with a passion for penetration testing and red teaming. Currently dedicated to enhancing my skills through continuous learning and practical challenges. As I go through the challanges, I also like visiting Blue Team rooms to gain a more comprehensive understanding of cybersecurity as a whole.
+[![Profile](https://tryhackme-badges.s3.amazonaws.com/LightMagician.png)](https://tryhackme-badges.s3.amazonaws.com/LightMagician.png)
 
-Since 2024, I've been actively participating in courses and challenges on TryHackMe, where I've reached the **top 1% of users** on the platform.
+Badge might be outdated. Click here for full profile: [LightMagician TryHackMe](https://tryhackme.com/p/LightMagician)
+
+## About Me
+I'm passionate about cybersecurity, especially for pentests and challenges (CTFs). Currently evolving my skills through continous learning (trying to keep the streak alive!) and testing myself in challenges. I also like checking out Blue Team rooms to better understand cybersecurity as a whole. 
+
+Since 2024, I've been actively doing courses and challenges on TryHackMe. I've reached the **top 1% of users** on the platform.
 
 ## Tech Interests
-1. **Cybersecurity:** Penetration testing, CTF challenges, vulnerability assessment
-2. **Computer Hardware:** Building custom PCs, staying current with hardware trends
-3. **AI:** The past, the future, and the now.
+Cybersecurity: Penetration testing, CTFs, technical writeups on how soft/hardware works;
+
+AI: The beginnings, where we are now, and what's coming in the future;
+
+Hardware: Building PCs, following current trends and getting excited with new revelations.
 
 ## Current Focus
+- CTF Team Lead at Dragons Cybersecurity Student Research Group (Lodz University of Technology)
 - Advancing my skills through TryHackMe rooms
-- Participating in Capture The Flag (CTF) competitions
-- Exploring and learning the usage of new security tools
+- Preparing writeups and videos for solved CTF rooms
+- Participating in Capture The Flag competitions
+- Exploring and learning new security tools
 - Expanding knowledge in both offensive and defensive security techniques
 
 ## Beyond Tech
-When I'm not testing security systems or learning new skills, you can find me:
+When I'm offline, you can find me:
 - Cycling through the city
-- Researching the latest published CVEs
+- Reading books (Janusz A. Zajdel, Securitum, Andrzej Sapkowski)
 - Editing videos and gameplays
 
-
 ## Recommended Learning Resources
-- [Mateusz Chrobok](https://www.youtube.com/c/MateuszChrobok)
+**in English:**
 - [Surveillance Report](https://www.youtube.com/c/SurveillanceReport)
 - [Seytonic](https://www.youtube.com/c/Seytonic)
-- [Mrugalski - UnknowNews](https://mrugalski.pl/)
-- [Sekurak](https://sekurak.pl/)
-- [Niebezpiecznik](https://niebezpiecznik.pl/)
+- [Hacker News](https://news.ycombinator.com/news)
 - [Darknet Diaries](https://darknetdiaries.com/)
+- [TheHackerNews](https://thehackernews.com/)
+- [LowLevel](https://www.youtube.com/@LowLevelTV)
+
+**in Polish:**
+- [Mateusz Chrobok](https://www.youtube.com/c/MateuszChrobok)
+- [Mrugalski - UnknowNews](https://mrugalski.pl/)
+- [CyberDefence24](https://cyberdefence24.pl/)
+- [Niebezpiecznik](https://niebezpiecznik.pl/)
+- [CERT Polska](https://cert.pl/news/)
+- [Sekurak](https://sekurak.pl/)
 
 ## Fun Facts
-- I've built three computers from scratch, completely on my own (well, with Youtube guides :D). Each one successfully booted on the first try and passed all tests!
-- I always look for opportunities to do something fun, or at least to make something out of this time. One day it's looking for new fun things to do in the city, other time I find myself looking at places I want to visit.
+- I've built three computers from scratch, completely on my own (well, with Youtube guides ;). Each one successfully booted on the first try and passed all tests!
+- I always look for opportunities to do something fun, or at least to make something out of this time. One day I'm looking for new books/movies, other time I'm going out to eat something fancy.
 - My favourite game franchise is Yakuza - the story, the graphics, the gameplay - all of it is amazing.
----
+
+## Quotes
 
 *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." — Gene Spafford*
 
