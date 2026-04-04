@@ -1,4 +1,3 @@
-# Hey there!
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/LightMagician)
 [![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge&logo=shield)](https://tryhackme.com/p/LightMagician)
 [![Red Team](https://img.shields.io/badge/Specialty-Red%20Team-darkred?style=for-the-badge&logo=target)](https://tryhackme.com/p/LightMagician)
@@ -7,12 +6,12 @@
 
 Badge might be outdated. Click here for full profile: [LightMagician TryHackMe](https://tryhackme.com/p/LightMagician)
 
-## About Me
+## What about me?
 I'm passionate about cybersecurity, especially for pentests and challenges (CTFs). Currently evolving my skills through continous learning (trying to keep the streak alive!) and testing myself in challenges. I also like checking out Blue Team rooms to better understand cybersecurity as a whole. 
 
 Since 2024, I've been actively doing courses and challenges on TryHackMe. I've reached the **top 1% of users** on the platform.
 
-## Tech Interests
+## Tech interests
 Cybersecurity: Penetration testing, CTFs, technical writeups on how soft/hardware works;
 
 AI: The beginnings, where we are now, and what's coming in the future;
@@ -27,11 +26,11 @@ Hardware: Building PCs, following current trends and getting excited with new re
 - Exploring and learning new security tools
 - Expanding knowledge in both offensive and defensive security techniques
 
-## Beyond Tech
+## Being offline
 When I'm offline, you can find me:
 - Cycling through the city
 - Reading books (Janusz A. Zajdel, Securitum, Andrzej Sapkowski)
-- Editing videos and gameplays
+- Editing videos and gameplay footage
 
 ## Recommended Learning Resources
 **in English:**
