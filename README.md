@@ -7,43 +7,38 @@
 Badge might be outdated. Click here for full profile: [LightMagician TryHackMe](https://tryhackme.com/p/LightMagician)
 
 ## What about me?
-I'm passionate about cybersecurity, especially for pentests and challenges (CTFs). Currently evolving my skills through continous learning (trying to keep the streak alive!) and testing myself in challenges. I also like checking out Blue Team rooms to better understand cybersecurity as a whole. 
+I'm passionate about cybersecurity, and especially interested in pentests and challenges (CTFs). Currently I'm learning continously, challenging myself (trying to keep the streak alive!) and doing my own projects. I also like checking out Blue Team topics to better understand cybersecurity as a whole. 
 
 Since 2024, I've been actively doing courses and challenges on TryHackMe. I've reached the **top 1% of users** on the platform.
 
-## Tech interests
-Cybersecurity: Penetration testing, CTFs, technical writeups on how soft/hardware works;
-
-AI: The beginnings, where we are now, and what's coming in the future;
-
-Hardware: Building PCs, following current trends and getting excited with new revelations.
+## Interests (tech-related)
+Cybersecurity: Penetration testing, CTFs, technical writeups<br>
+AI: The threat of AI, but also how it works under the hood<br>
+Hardware: Building PCs, getting excited about new hardware (keeps getting harder year after year)
 
 ## Current Focus
 - CTF Team Lead at Dragons Cybersecurity Student Research Group (Lodz University of Technology)
-- Advancing my skills through TryHackMe rooms
-- Preparing writeups and videos for solved CTF rooms
-- Participating in Capture The Flag competitions
+- Following **Red Team Penetration Tester** path on Tryhackme
+- Completing more and more CTFs on Tryhackme along with creating [writeups](https://github.com/lezniakb/Writeups) for them
+- Participating in Capture The Flag competitions ([IN.SE.CON](https://insecon.pl/pl/), [CyberMil](https://www.cyber.mil.pl/))
 - Exploring and learning new security tools
-- Expanding knowledge in both offensive and defensive security techniques
+- Expanding knowledge in both offensive and defensive techniques (sources below)
 
 ## Being offline
-When I'm offline, you can find me:
-- Cycling through the city
-- Reading books (Janusz A. Zajdel, Securitum, Andrzej Sapkowski)
-- Editing videos and gameplay footage
+When I'm offline, you can find me cycling through the city, reading books (*Janusz A. Zajdel; Securitum; Ancient Greece*), or editing videos with gameplay footage :)
 
 ## Recommended Learning Resources
 **in English:**
-- [Surveillance Report](https://www.youtube.com/c/SurveillanceReport)
-- [Seytonic](https://www.youtube.com/c/Seytonic)
 - [Hacker News](https://news.ycombinator.com/news)
+- [Seytonic](https://www.youtube.com/c/Seytonic)
+- [Surveillance Report](https://www.youtube.com/c/SurveillanceReport)
 - [Darknet Diaries](https://darknetdiaries.com/)
 - [TheHackerNews](https://thehackernews.com/)
 - [LowLevel](https://www.youtube.com/@LowLevelTV)
 
 **in Polish:**
-- [Mateusz Chrobok](https://www.youtube.com/c/MateuszChrobok)
-- [Mrugalski - UnknowNews](https://mrugalski.pl/)
+- [Mateusz Chrobok](https://www.youtube.com/@MateuszChrobok)
+- [Mrugalski - UnknowNews](https://news.mrugalski.pl/)
 - [CyberDefence24](https://cyberdefence24.pl/)
 - [Niebezpiecznik](https://niebezpiecznik.pl/)
 - [CERT Polska](https://cert.pl/news/)
@@ -51,8 +46,8 @@ When I'm offline, you can find me:
 
 ## Fun Facts
 - I've built three computers from scratch, completely on my own (well, with Youtube guides ;). Each one successfully booted on the first try and passed all tests!
-- I always look for opportunities to do something fun, or at least to make something out of this time. One day I'm looking for new books/movies, other time I'm going out to eat something fancy.
-- My favourite game franchise is Yakuza - the story, the graphics, the gameplay - all of it is amazing.
+- I always look for opportunities to do something fun, or at least to make something out of my time. One day I'm looking for new books/movies, other time I'm going out to eat something fancy.
+- My favourite game franchise is Yakuza
 
 ## Quotes
 
